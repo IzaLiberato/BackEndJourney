@@ -26,4 +26,3 @@ fs.readFile('readMe.txt', 'utf8', function(err, data) {
 });
 
 console.log('Teste para mostrar que é assicrono. Sem bloqueio.');
-
